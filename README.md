@@ -20,6 +20,7 @@ Note Taker is an application that allows users to create, save, and delete notes
 - **Delete Notes:** Users can delete notes they no longer need.
 
 ## Screenshots
+![Screenshot](https://github.com/shambo-rambo/shambo-note-taker/blob/main/public/assets/screenshots/Screenshot%202023-11-06%20at%208.59.00%20pm.png?raw=true)
 
 ## Usage
 To use the application, simply navigate to the hosted webpage, create a new note by clicking on the "New Note" button, write your note, and then save it using the "Save" button.
